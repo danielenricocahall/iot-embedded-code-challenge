@@ -1,0 +1,4 @@
+[submodule "iot-embedded-challenge-solution"]
+	path = iot-embedded-challenge-solution
+	url = https://github.com/danielenricocahall/iot-embedded-challenge-solution.git
+	branch = master
